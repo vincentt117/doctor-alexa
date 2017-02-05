@@ -119,8 +119,8 @@ fieldset[disabled] .btn-primary:hover {
 
 .btn-xl {
     color: #fff;
-    background-color: #fed136;
-    border-color: #fed136;
+    background-color: transparent;
+    border-color: #fff;
     border-radius: 3px;
     font-size: 18px;
     padding: 20px 40px
@@ -132,8 +132,7 @@ fieldset[disabled] .btn-primary:hover {
 .btn-xl:hover,
 .open .dropdown-toggle.btn-xl {
     color: #fff;
-    background-color: #fec503;
-    border-color: #f6bf01
+    background-color: transparent;
 }
 
 .btn-xl.disabled,
@@ -151,8 +150,7 @@ fieldset[disabled] .btn-xl.active,
 fieldset[disabled] .btn-xl:active,
 fieldset[disabled] .btn-xl:focus,
 fieldset[disabled] .btn-xl:hover {
-    background-color: #fed136;
-    border-color: #fed136
+    background-color: transparent;
 }
 
 .btn-xl .badge {
